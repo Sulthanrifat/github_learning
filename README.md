@@ -6,9 +6,9 @@ Hello World, _this is our repository_
 ```
 pip install napari[all]
 ```
-** HI EVERYONE **
+**HALOO**
 > Quotes baru : "HAI"
 
 [ini link ke google]
 
-(google.com)
+(http://google.com)
